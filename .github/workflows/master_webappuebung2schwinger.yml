@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'webappuebung2schwinger'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A0BE06C1617347ECA32727D11167CFB2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0859C231F83546D194BAC8FC10A89AD5 }}
